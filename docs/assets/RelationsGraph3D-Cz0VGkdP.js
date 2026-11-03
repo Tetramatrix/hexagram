@@ -1,4 +1,4 @@
-import{r as ci,j as Pn}from"./index-BWsNkJXj.js";/**
+import{r as ci,j as Pn}from"./index-Byi-z0dA.js";/**
  * @license
  * Copyright 2010-2026 Three.js Authors
  * SPDX-License-Identifier: MIT
