@@ -1,0 +1,16 @@
+{
+  "name": "I Ging — Book of Changes",
+  "short_name": "I Ging",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f7f1e3",
+  "theme_color": "#9c2c1c",
+  "icons": [
+    {
+      "src": "./favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
